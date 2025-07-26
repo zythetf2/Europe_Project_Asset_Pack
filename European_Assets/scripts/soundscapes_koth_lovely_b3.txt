@@ -1,0 +1,218 @@
+// UTIL
+
+"lovely.u.wind"
+{
+	"playlooping"
+	{
+		volume 0.8
+		pitch 100
+		wave "ambient\lightwindcreaks.wav"
+	}
+
+	"playrandom"
+	{
+		time "8,15"
+		volume "0.4,0.5"
+		pitch "80,120"
+	
+		"rndwave"
+		{
+			wave "ambient_mp3\wind_gust1.mp3"
+			wave "ambient_mp3\wind_gust2.mp3"
+			wave "ambient_mp3\halloween\windgust_01.mp3"
+			wave "ambient_mp3\halloween\windgust_07.mp3"
+			wave "ambient_mp3\halloween\windgust_10.mp3"
+		}
+	}
+}
+
+"lovely.u.birds"
+{
+	"playrandom"
+	{
+		time "5,9"
+		volume "0.6"
+		pitch "100"
+		
+		"rndwave"
+		{
+			wave "ambient_mp3\forest_bird1.mp3"
+			wave "ambient_mp3\forest_bird2.mp3"
+			wave "ambient_mp3\forest_bird3.mp3"
+			wave "ambient_mp3\forest_bird4.mp3"
+			wave "ambient_mp3\forest_bird5.mp3"
+			wave "ambient_mp3\forest_bird6.mp3"
+			wave "ambient_mp3\forest_bird7.mp3"
+			wave "ambient_mp3\forest_bird8.mp3"
+			wave "ambient_mp3\forest_bird9.mp3"
+			wave "ambient_mp3\bird1.mp3"
+			wave "ambient_mp3\bird2.mp3"
+			wave "ambient_mp3\bird3.mp3"
+		}
+	}
+}
+
+"lovely.u.wood"
+{
+	"playrandom"
+	{
+		time "8,15"
+		volume "0.7, 0.8"
+		pitch "90,110"
+		
+		"rndwave"
+		{
+			wave "ambient\materials\wood_creak1.wav"
+			wave "ambient\materials\wood_creak2.wav"
+			wave "ambient\materials\wood_creak3.wav"
+			wave "ambient\materials\wood_creak4.wav"
+			wave "ambient\materials\wood_creak5.wav"
+			wave "ambient\materials\wood_creak6.wav"
+		}
+	}
+}
+
+"lovely.u.indoor"
+{
+	"playlooping"
+	{
+		volume 0.7
+		pitch 100
+		wave "ambient\lair\cap_1_tone2.wav"
+	}
+}
+
+// REAL
+
+"lovely.outdoor"
+{
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wind"
+		"volume"	"1.0"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.birds"
+		"volume"	"1.0"
+	}
+
+	playlooping
+	{
+		volume "0.1"
+		pitch 100
+		wave "ambient\forest_high_wind.wav"
+	}
+}
+
+"lovely.cliff"
+{
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wind"
+		"volume"	"1.0"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.birds"
+		"volume"	"1.0"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wood"
+		"volume"	"0.8"
+	}
+
+	playlooping
+	{
+		volume "0.2"
+		pitch 100
+		wave "ambient\forest_high_wind.wav"
+	}
+	
+}
+
+"lovely.courtyard"
+{
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wind"
+		"volume"	"0.6"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.birds"
+		"volume"	"0.5"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wood"
+		"volume"	"0.8"
+	}
+}
+
+"lovely.alley"
+{
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wind"
+		"volume"	"0.5"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.birds"
+		"volume"	"0.2"
+	}
+
+	"playlooping"
+	{
+		volume "0.05"
+		pitch 100
+		wave "ambient\desert_wind_low.wav"
+	}
+}
+
+"lovely.redspawn"
+{
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.indoor"
+		"volume"	"1.0"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wood"
+		"volume"	"1.0"
+	}
+
+	"playlooping"
+	{
+		volume "0.7"
+		pitch "100"
+		position 0
+		
+		wave "ambient\computer_working2_red.wav"
+	}
+}
+
+"lovely.bluespawn"
+{
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.indoor"
+		"volume"	"1.0"
+	}
+
+	"playsoundscape"
+	{
+		"name" 		"lovely.u.wood"
+		"volume"	"1.0"
+	}
+}

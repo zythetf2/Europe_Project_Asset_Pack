@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"greek\greek_wall04_black"
+	"$ssbump"		"1"
+	"%keywords"		"tf, greek, greece, hades"
+	"$model"		"1"
+}

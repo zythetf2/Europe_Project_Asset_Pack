@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"lovely\greek_cobble_trim01"
+	"$ssbump"		"1"
+	"$color"		"[1.8 1.8 1.8]"
+	"$color2"		"[1.8 1.8 1.8]"
+	"%keywords"		"tf, greek, greece, hades"
+	"$model"		"1"
+}

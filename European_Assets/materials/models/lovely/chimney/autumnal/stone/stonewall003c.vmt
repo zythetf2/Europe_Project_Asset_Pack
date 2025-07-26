@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"autumnal/stone/stonewall003c"
+	"$ssbump"		"1"
+	"%keywords"		"tf, autumnal"
+	"$model"		"1"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"glass/glasswindow005a"
+	"$translucent"		"1"
+	"%keywords"		"tf"
+	"$model"		"1"
+}
