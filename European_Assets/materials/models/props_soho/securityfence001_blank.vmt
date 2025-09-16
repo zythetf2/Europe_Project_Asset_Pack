@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/props_soho/SecurityFence001_blank"
+	"$surfaceprop" "metal"
+	"%keywords" "tf"
+}

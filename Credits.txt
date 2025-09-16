@@ -1,1 +1,43 @@
--=-=-CREDITS-=-=-
+Credits for the Operation Europa Asset Pack.
+
+ASSET NAME						AUTHOR			CREDIT
+fork_lift_v2						Goobert			Yes
+hanging_sign_greek_bar					Goobert, Entropy	Yes
+hanging_sign_greek_nobar				Goobert, Entropy	Yes
+mvm_upgrade_sign_base					Goobert			Yes
+mvm_upgrade_sign_light					Goobert, Entropy	Yes
+resupply_locker_nopickups_combined_static		Goobert			Yes
+resupply_locker_nopickups_combined_left_door_static	Goobert			Yes
+resupply_locker_nopickups_combined_right_door_static	Goobert			Yes
+sign_gameplay01_greek					Goobert			Yes
+securityfence001_blank					Goobert			No
+securityfence001_greek					Goobert, Entropy	Yes
+
+plaster_blue						Idolon			Yes
+plaster_red						Idolon			Yes
+plaster_blue_blend					Idolon			Yes
+plaster_red_blend					Idolon			Yes
+plaster_white_blend					Idolon			Yes
+lovely/greek_cobble_trim01				Idolon			Yes
+lovely/stonewall003c					Idolon			Yes
+lovely/cobbleground					Idolon			Yes
+lovely/yellowgrass					Idolon			Yes
+lovely/window_1						Idolon			Yes
+lovely/window_1_16thick					Idolon			Yes
+lovely/window_1_open					Idolon			Yes
+lovely/window_2						Idolon			Yes
+lovely/window_2_open					Idolon			Yes
+lovely/door_1						Idolon			Yes
+lovely/door_2						Idolon			Yes
+lovely/chimney						Idolon			Yes
+lovely/cornice_cap_64					Idolon			Yes
+lovely/rustify_corner_128				Idolon			Yes
+lovely/rustify_corner_64				Idolon			Yes
+lovely/window_flowerholder				Idolon			Yes
+lovely/wood_nub_1					Idolon			Yes
+lovely/handrail_rib					Idolon			Yes
+
+
+Goobert: https://steamcommunity.com/id/largedrink89
+Entropy: https://steamcommunity.com/id/entropy_tempus/
+Idolon: https://steamcommunity.com/id/idolon
