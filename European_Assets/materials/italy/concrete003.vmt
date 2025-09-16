@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "italy/concrete003"
+	"$surfaceprop" "concrete"
+	"%keywords" "tf"
+	"$detail" "overlays/detail007"
+	"$detailscale" "1.1"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}

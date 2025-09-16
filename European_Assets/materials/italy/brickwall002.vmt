@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "italy/brickwall002"
+	"$bumpmap" "italy/brickwall002_ssbump"
+	"$surfaceprop" "brick"
+	"%keywords" "tf"
+	"$ssbump" "1"
+	//"$detail" "overlays/detail007"
+	//"$detailscale" "1.1"
+	//"$detailblendmode" "0"
+	//"$detailblendfactor" "1"
+}

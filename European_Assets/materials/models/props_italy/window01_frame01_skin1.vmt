@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_italy/window01.vtf"
+	"$model" "1"
+	"$surfaceprop" "concrete"
+	"$blendtintbybasealpha"		"1"
+	"$blendtintcoloroverbase"	"0"
+	"$color2"		"{ 207 207 202 }"	// Grey
+	"%keywords" "tf"
+}

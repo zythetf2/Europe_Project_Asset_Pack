@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_italy/window02.vtf"
+	"$model" "1"
+	"$surfaceprop" "glass"
+	"$envmapmask" "models/props_italy/window02_env.vtf"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .5 .5]"
+	"$nodecal" "1"
+	"$blendtintbybasealpha"		"1"
+	"$blendtintcoloroverbase"	"0"
+	"$color2"		"{ 75 79 59 }" 		// Green #1
+	"%keywords" "tf"
+}

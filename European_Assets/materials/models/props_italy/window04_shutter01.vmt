@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_italy/window04_shutter01.vtf"
+	"$model" "1"
+	"$surfaceprop" "wood"
+	"$nodecal" "1"
+	"$blendtintbybasealpha"		"1"
+	"$blendtintcoloroverbase"	"0"
+	"$color2"		"{ 75 79 59 }" 		// Green #1
+	"%keywords" "tf"
+}

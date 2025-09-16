@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_italy/stone_arch_large01.vtf"
+	"$model" 1
+	"%keywords" "tf"
+}

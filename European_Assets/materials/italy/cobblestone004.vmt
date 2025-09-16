@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "italy/cobblestone004"
+	"$bumpmap" "italy/cobblestone004_ssbump"
+	"$surfaceprop" "concrete"
+	"%keywords" "tf"
+	"$ssbump" "1"
+	"$detail" "overlays/detail007"
+	"$detailscale" "1.1"
+	"$detailblendmode" "0"
+	"$detailblendfactor" ".5"
+}
