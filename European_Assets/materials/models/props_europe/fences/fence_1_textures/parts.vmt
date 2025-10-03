@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_europe/fences/fence_1_textures/parts"
+"$lightwarptexture"        "models/player/pyro/pyro_lightwarp"
+"$phongexponenttexture"        ""
+"$phong"        "1"
+"$phongexponent"        "15"
+"$phongboost"        "0.100000"
+"$phongfresnelranges"        "[.25 .5 1]"
+"$basemapalphaphongmask"        "0"
+"$rimlight"        "1"
+"$rimlightexponent"        "4"
+"$rimlightboost"        "2"
+"$rimmask"        "0"
+"$halflambert"        "0"
+}
