@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_europe/awning01a"
+
+	$model 1
+}

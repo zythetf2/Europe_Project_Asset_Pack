@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture"	"europe\street_cobble03"
+	"$bumpmap" "europe\street_cobble03_ssbump"
+
+	"$ssbump" "1"	
+	"$surfaceprop" "concrete"
+
+	
+	"%keywords" "tf, europe, france, french"
+}

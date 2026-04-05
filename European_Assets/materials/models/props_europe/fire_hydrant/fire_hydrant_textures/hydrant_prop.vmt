@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_europe/fire_hydrant/fire_hydrant_textures/hydrant_prop"
+"$surfaceprop"	"metal"
+	"$selfillum" 0
+	"$basemapalphaphongmask" 1
+	//phong properties
+	"$phong"	"1"
+	"$phongboost"	"2.5"
+	"$phongexponent"	"45"
+	"$phongfresnelranges"	"[.5 1 2]"
+	
+	"$rimlight" 1
+	"$lightwarptexture"        "models/player/pyro/pyro_lightwarp"
+	
+	"$rimlight" "4"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" "1.0"
+
+	"$glowcolor" "1"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"$sheenPassEnabled" "1"
+
+	"$sheenmap" 		"cubemaps\cubemap_sheen001"
+	"$sheenmapmask" 		"Effects\AnimatedSheen\animatedsheen0"
+	"$sheenmaptint" 		"[ 1 1 1 ]"
+	"$sheenmapmaskframe" 	"0"
+	"$sheenindex" 		"0"
+}

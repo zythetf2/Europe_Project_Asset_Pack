@@ -1,0 +1,15 @@
+WorldVertexTransition
+{
+	"$basetexture"	"europe\beach_sand01"
+	"$bumpmap" "europe\beach_sand01_ssbump"
+	$surfaceprop dirt
+	$ssbump 1
+
+	"$basetexture2" "winter/rockwall014"
+	"$bumpmap2" "Nature/rockwall004_bump-ssbump"
+	$surfaceprop2 rock
+
+	$blendmodulatetexture "europe\beach_sand01_blendmod"
+
+	"%keywords" "tf, europe, france, french"
+}

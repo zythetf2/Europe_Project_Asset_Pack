@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 Credits for the Operation Europa Asset Pack.
 --> For all assets with the label "yes", credit is required, non-negotiable.
---> For all assets with the label "optional", credit would be appreciated, but is not necessarily required, negotiable.
+--> For all assets with the label "optional", credit would be appreciated, but is not necessarily required, negotiable. (permission to modify may be required)
 --> For all assets with the label "no", credit is not required.
 
 _______________________________________________________________________________________________________________________
@@ -34,13 +34,17 @@ securityfence001_greek					Goobert, Entropy	Yes
 fences/fence_1						Oldmann			Yes
 fences/fence_high					Oldmann			Yes
 fences/fence_small					Oldmann			Yes
-
-
+fire_hydrant/fire_hydrant				Oldmann			Yes
+				
 
 
 TEXTURE NAME						AUTHOR			CREDIT
 austria/metal/redmetalwall_001a				Zythe_			Optional
 austria/metal/redmetalwall_001b				Zythe_			Optional
+europe/signs/monitor_europa_map_blu01a			Entropy			Optional (permission to modify required)
+europe/signs/monitor_europa_map_red01a			Entropy			Optional (permission to modify required)
+europe/signs/monitor_europa_map_blu01b			Entropy			Optional (permission to modify required)
+europe/signs/monitor_europa_map_red01b			Entropy			Optional (permission to modify required)
 
 
 
@@ -574,6 +578,53 @@ italy/water/water_italy_beneath					KrazyZark		Yes
 italy/water/water_italy_dx80					KrazyZark		Yes
 italy/water/water_italy_expensive				KrazyZark		Yes
 italy/water/water_ital_beneath_dx80				KrazyZark		Yes
+
+
+
+
+MODEL NAME							AUTHOR			CREDIT
+foliage/dwarf_pine01						Freyja			Yes
+foliage/dwarf_pine02						Freyja			Yes
+foliage/dwarf_pine03						Freyja			Yes
+foliage/dwarf_pine04						Freyja			Yes
+foliage/larch_l_01						Freyja			Yes
+foliage/larch_l_02						Freyja			Yes
+foliage/larch_m_01						Freyja			Yes
+foliage/larch_m_02						Freyja			Yes
+props_europe/awning01						Freyja			Yes
+props_europe/french_cafe_chair01				Freyja			Yes
+props_europe/french_cafe_table01				Freyja			Yes
+props_europe/waterwheel01					Freyja			Yes
+props_europe/ship_hull01					Freyja			Yes
+props_europe/ship_hull02					Freyja			Yes
+
+TEXTURE NAME							AUTHOR			CREDIT
+europe/blend_street_cobble01_to_sand01				Freyja			Yes
+europe/blend_street_cobble01_to_street_cobble02			Freyja			Yes
+europe/blend_street_cobble01_to_street_cobble03			Freyja			Yes
+europe/blend_street_cobble01a_to_sand01				Freyja			Yes
+europe/blend_street_cobble01b_to_sand01				Freyja			Yes
+europe/blend_street_cobble02_to_sand01				Freyja			Yes
+europe/blend_street_cobble02_to_street_cobble03			Freyja			Yes
+europe/blend_street_cobble02a_to_sand01				Freyja			Yes
+europe/blend_street_cobble03a_to_sand01				Freyja			Yes
+europe/blend_street_sand01_to_sand01a				Freyja			Yes
+europe/blend_winterrockwall_to_sand01				Freyja			Yes
+europe/street_cobble01						Freyja			Yes
+europe/street_cobble01a						Freyja			Yes
+europe/street_cobble01b						Freyja			Yes
+europe/street_cobble02						Freyja			Yes
+europe/street_cobble02a						Freyja			Yes
+europe/street_cobble02b						Freyja			Yes
+europe/street_cobble03						Freyja			Yes
+europe/street_cobble03a						Freyja			Yes
+europe/street_cobble03b						Freyja			Yes
+europe/street_wall01						Freyja			Yes
+
+
+
+
+
 
 
 

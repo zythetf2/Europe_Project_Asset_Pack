@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_europe/french_cafe_table01a"
+
+	$model 1
+}

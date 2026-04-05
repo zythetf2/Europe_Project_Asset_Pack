@@ -1,0 +1,107 @@
+===========
+EUROPA GAMEPLAY SIGNS
+===========
+
+By Goobert (https://steamcommunity.com/id/largedrink89) and Entropy Tempus (https://steamcommunity.com/id/entropy_tempus/)
+
+
+This upgraded signs have been translated accurately to different languages from english. Even tho not all translations are exactly the same they are close enough in context for them to work
+
+Battlements - Skin0, Skin1
+Control Point - Skin2, Skin3
+Resupply - Skin4, Skin5
+Intelligence - Skin6, Skin7
+Exit - Skin8, Skin9
+Capture Point - Skin10, Skin11
+Off blu - Skin12
+Off red - Skin13
+Off neutral - Skin14
+
+They will have the same name as their original counterparts just with the language they use added to the end. The original counterparts are
+
+sign_gameplay01
+sign_gameplay01_hanging01
+sign_gameplay01_witharrow_l
+sign_gameplay01_witharrow_r
+
+Here you can check the original sign alongside the respective language translations
+
+Greek
+> BATTLEMENTS - ΟΧΥΡΩΣΕΙΣ
+> CONTROL POINT - ΣΗΜΕΙΟ ΕΛΕΓΧΟΥ
+> RESUPPLY - ΑΝΕΦΟΔΙΑΣΜΟΣ
+> INTELLIGENCE - ΧΑΡΤΟΦΥΛΑΚΙΟ
+> EXIT - ΕΞΟΔΟΣ
+> CAPTURE POINT - ΣΗΜΕΙΟ ΚΑΤΑΚΤΗΣΗ
+
+Spanish
+> BATTLEMENTS - ALMENAS
+> CONTROL POINT - PUNTO DE CONTROL
+> RESUPPLY - REABASTECIMIENTO
+> INTELLIGENCE - INTELIGENCIA
+> EXIT - SALIDA
+> CAPTURE POINT - PUNTO DE CAPTURA
+
+Italian
+> BATTLEMENTS - BALCONI
+> CONTROL POINT -  PUNTO DI CONTROLLO
+> RESUPPLY - RIFORNIMENTI
+> INTELLIGENCE - VALIGETTA
+> EXIT - USCITA
+> CAPTURE POINT - PUNTO DI CATTURA
+
+German
+> BATTLEMENTS - WEHRGANG
+> CONTROL POINT - KONTROLLPUNKT
+> RESUPPLY - NACHSCHUB
+> INTELLIGENCE - GEHEIMMATERIAL
+> EXIT - AUSGANG
+> CAPTURE POINT - EROBERUNGSPUNKT
+
+Dutch
+> BATTLEMENTS - KANTELEN
+> CONTROL POINT - CONTROLE PUNT
+> RESUPPLY - HERVOORZIENING
+> INTELLIGENCE - INTELLIGENTIE
+> EXIT - UITGANG
+> CAPTURE POINT -VEROVER PUNT
+
+Finnish
+> BATTLEMENTS - SAKARAMUURI
+> CONTROL POINT - OHJAUSPISTE
+> RESUPPLY - UUDELEENTÄYDENNYS
+> INTELLIGENCE - TIEDOSTELUTIETO
+> EXIT - POISKÄYNTI
+> CAPTURE POINT - KAAPAUSPISTE
+
+Scottish
+> BATTLEMENTS - BATELLIT
+> CONTROL POINT - ADWANTAG POUR
+> RESUPPLY - RESUPPLE
+> INTELLIGENCE - INTELLIGEN
+> EXIT - OUTGATE
+> CAPTURE POINT - FANG POUR
+
+French
+> BATTLEMENTS - REMPARTS
+> CONTROL POINT - POINT DE CONTRÔLE
+> RESUPPLY - RECHARGEMENT
+> INTELLIGENCE - INFORMATIONS
+> EXIT - SORTIE
+> CAPTURE POINT - POINT DE CAPTURE
+
+Portuguese
+> BATTLEMENTS - MERLŌES
+> CONTROL POINT - PONTO DE CONTROLE
+> RESUPPLY - REABASTECIMENTO
+> INTELLIGENCE - INTELIGÊNCIA
+> EXIT - SAÍDA
+> CAPTURE POINT - PONTO DE CAPTURA
+
+Polish
+> BATTLEMENTS - FORTYFIKACJE
+> CONTROL POINT - PUNKT KONTROLNY
+> RESUPPLY - ZAOPATRZENIE
+> INTELLIGENCE - TAJNE MATERIAŁY
+> EXIT - WYJŚCIE
+> CAPTURE POINT - PUNKT ATAKU

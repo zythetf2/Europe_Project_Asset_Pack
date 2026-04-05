@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture"	"europe\signs\monitor_europa_map_red01"
+
+	"$surfaceprop" "metal"
+	
+	"%keywords" "tf, worldmap, map, monitor, europa"
+}
