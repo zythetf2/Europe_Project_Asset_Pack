@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/italy/vehicles/moped5"
+	 	 
+	"$basemapalphaphongmask" 1
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phong"	"1"
+	"$phongboost"	"2"
+	"$phongexponent" 80
+	"$phongfresnelranges"	"[.5 1 2]"	
+}

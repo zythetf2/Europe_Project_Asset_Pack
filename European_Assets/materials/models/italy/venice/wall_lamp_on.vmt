@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/italy/venice/wall_lamp_on"
+	"$selfillum" "1"
+}

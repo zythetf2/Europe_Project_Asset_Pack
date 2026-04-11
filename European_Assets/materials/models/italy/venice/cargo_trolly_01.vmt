@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/italy/venice/cargo_trolly_01"
+	"$phong" "1"
+	"$phongexponent" "10" 
+	"$phongboost" ".125"	
+	"$phongfresnelranges"	"[.7 15 20]"
+	"$basemapalphaphongmask" "1"
+}

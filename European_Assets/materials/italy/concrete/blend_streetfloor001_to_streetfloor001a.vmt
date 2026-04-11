@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "soho/StreetFloor001"
+	"$bumpmap" "soho/StreetFloor001_normal"
+	"$basetexture2" "italy/concrete/StreetFloor001a"
+	"$bumpmap2" "soho/StreetFloor001_normal"
+	"$blendmodulatetexture" "italy/concrete/streetfloor001_blendmask"
+	"%keywords" "tf,italy,venice,soho"
+}

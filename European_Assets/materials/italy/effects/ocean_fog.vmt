@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"italy/effects/ocean_fog"
+	"$translucent"	"1"
+	$color "{216 249 249}"
+	"%keywords"		"tf,italy,venice"
+}

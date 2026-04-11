@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_austria/window_shutter"
+	"$color2"		"{180 70 60}"
+	"$blendtintbybasealpha"	"1"
+}

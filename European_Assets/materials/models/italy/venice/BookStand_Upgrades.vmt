@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/italy/venice/BookStand1_upg"
+	"$surfaceprop" "metal"
+	"%keywords" "tf"
+}

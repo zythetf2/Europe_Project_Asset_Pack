@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "italy/venice/stone_railing01a"
+	"$surfaceprop" "concrete"
+	"%keywords" "tf,italy,venice"
+        "$nodecal" "1"
+}

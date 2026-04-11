@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "austria/signs/sign_pipeunstable01"
+
+	"$decal" "1"
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "tf"
+}

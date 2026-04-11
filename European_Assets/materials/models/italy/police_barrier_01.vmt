@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/italy/police_barrier_01"
+	"$surfaceprop" "metal"
+}

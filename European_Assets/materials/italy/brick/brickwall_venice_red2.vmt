@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "italy/Brick/brickwall_venice_white"
+	"$bumpmap" "italy/Brick/brickwall002_normal"
+	"%keywords" "tf,italy,venice"
+
+	$color "{255 130 93}"
+}

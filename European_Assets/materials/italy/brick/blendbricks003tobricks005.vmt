@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "italy/brick/brickwall003f"
+	"$bumpmap" "brick/brickwall002_normal"
+	"$baseTexture2" "brick/brickwall005"
+	"$bumpmap2" "brick/brickwall002_normal"
+	"$blendmodulatetexture" "italy/brick/brickwall_blendmodulate"
+	"%keywords" "tf,italy,venice"
+}
+

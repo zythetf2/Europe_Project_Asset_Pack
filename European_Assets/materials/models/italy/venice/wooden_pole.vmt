@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/italy/venice/wooden_pole"
+	"$surfaceprop" "wood"
+}
