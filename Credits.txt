@@ -664,9 +664,11 @@ props_austria/train01						FGD5, blaholtzen	Yes
 props_austria/window01						FGD5, blaholtzen	Yes
 props_austria/window01a						FGD5, blaholtzen	Yes
 props_austria/window01_shutter					FGD5, blaholtzen	Yes
+props_austria/window01_shutter_closed				FGD5, blaholtzen	Yes
 props_austria/window02						FGD5, blaholtzen	Yes
 props_austria/window02a						FGD5, blaholtzen	Yes
 props_austria/window02_shutter					FGD5, blaholtzen	Yes
+props_austria/window02_shutter_closed.mdl			FGD5, blaholtzen	Yes
 props_austria/window_bricktrim					FGD5, blaholtzen	Yes
 
 

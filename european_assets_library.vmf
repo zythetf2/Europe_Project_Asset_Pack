@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "311"
+	"mapversion" "317"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "32"
+	"nGridSpacing" "64"
 }
 palette_plus
 {
@@ -113,7 +113,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "311"
+	"mapversion" "317"
 	"classname" "worldspawn"
 	"_minlight" "0.0"
 	"detailmaterial" "detailsprites"
@@ -23587,7 +23587,7 @@ world
 				"v" "-6272 640 384"
 			}
 			"material" "EUROPE/SIGNS/MONITOR_EUROPA_MAP_BLU01B"
-			"uaxis" "[-0 1 0 0] 0.25"
+			"uaxis" "[-0 1 0 -512] 0.25"
 			"vaxis" "[0 0 -1 512] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -23705,7 +23705,7 @@ world
 				"v" "-6272 384 384"
 			}
 			"material" "EUROPE/SIGNS/MONITOR_EUROPA_MAP_BLU01A"
-			"uaxis" "[-0 1 0 0] 0.25"
+			"uaxis" "[-0 1 0 -512] 0.25"
 			"vaxis" "[0 0 -1 512] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -23823,7 +23823,7 @@ world
 				"v" "-6272 -128 384"
 			}
 			"material" "EUROPE/SIGNS/MONITOR_EUROPA_MAP_RED01A"
-			"uaxis" "[-0 1 0 0] 0.25"
+			"uaxis" "[-0 1 0 512] 0.25"
 			"vaxis" "[0 0 -1 512] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -23941,7 +23941,7 @@ world
 				"v" "-6272 128 384"
 			}
 			"material" "EUROPE/SIGNS/MONITOR_EUROPA_MAP_RED01B"
-			"uaxis" "[-0 1 0 0] 0.25"
+			"uaxis" "[-0 1 0 512] 0.25"
 			"vaxis" "[0 0 -1 512] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39036,7 +39036,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_bar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_bar.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-1984 -2944 64"
@@ -39058,7 +39058,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_nobar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_nobar.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-1984 -2944 192"
@@ -39080,7 +39080,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/securityfence001_greek.mdl"
+	"model" "models/props_greece/securityfence001_greek.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-1664 -2816 64"
@@ -39102,7 +39102,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_bar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_bar.mdl"
 	"skin" "1"
 	"solid" "6"
 	"origin" "-1984 -2880 64"
@@ -39124,7 +39124,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_nobar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_nobar.mdl"
 	"skin" "1"
 	"solid" "6"
 	"origin" "-1984 -2880 192"
@@ -39146,7 +39146,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_bar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_bar.mdl"
 	"skin" "2"
 	"solid" "6"
 	"origin" "-1984 -2816 64"
@@ -39168,7 +39168,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_nobar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_nobar.mdl"
 	"skin" "2"
 	"solid" "6"
 	"origin" "-1984 -2816 192"
@@ -39190,7 +39190,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_bar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_bar.mdl"
 	"skin" "3"
 	"solid" "6"
 	"origin" "-1984 -2752 64"
@@ -39212,7 +39212,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_greek/hanging_sign_greek_nobar.mdl"
+	"model" "models/props_greece/hanging_sign_greek_nobar.mdl"
 	"skin" "3"
 	"solid" "6"
 	"origin" "-1984 -2752 192"
@@ -96749,6 +96749,186 @@ entity
 	editor
 	{
 		"color" "255 200 100"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "363704"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_austria/window01_shutter_closed.mdl"
+	"screenspacefade" "0"
+	"skin" "2"
+	"solid" "6"
+	"origin" "-3136 1792 128"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "363708"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_austria/window01_shutter_closed.mdl"
+	"screenspacefade" "0"
+	"skin" "1"
+	"solid" "6"
+	"origin" "-3136 1792 256"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "363712"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_austria/window02_shutter_closed.mdl"
+	"screenspacefade" "0"
+	"skin" "2"
+	"solid" "6"
+	"origin" "-3136 1600 128"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "363716"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_austria/window02_shutter_closed.mdl"
+	"screenspacefade" "0"
+	"skin" "1"
+	"solid" "6"
+	"origin" "-3136 1600 256"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "363720"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_austria/window02_shutter_closed.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3136 1600 384"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "363724"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_austria/window01_shutter_closed.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3136 1792 384"
+	editor
+	{
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
