@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8870"
-	"mapversion" "317"
+	"editorbuild" "8871"
+	"mapversion" "318"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -113,7 +113,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "317"
+	"mapversion" "318"
 	"classname" "worldspawn"
 	"_minlight" "0.0"
 	"detailmaterial" "detailsprites"
@@ -96211,7 +96211,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"texframeindex" "0"
-	"origin" "-3840 832 64"
+	"origin" "-3904 832 64"
 	editor
 	{
 		"color" "255 100 0"
@@ -96252,7 +96252,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"texframeindex" "0"
-	"origin" "-3840 448 64"
+	"origin" "-3904 448 64"
 	editor
 	{
 		"color" "255 100 0"
@@ -96293,7 +96293,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"texframeindex" "0"
-	"origin" "-3840 64 64"
+	"origin" "-3904 64 64"
 	editor
 	{
 		"color" "255 100 0"
@@ -96334,7 +96334,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"texframeindex" "0"
-	"origin" "-3968 64 64"
+	"origin" "-4032 64 64"
 	editor
 	{
 		"color" "255 100 0"
@@ -96375,7 +96375,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"texframeindex" "0"
-	"origin" "-3968 448 64"
+	"origin" "-4032 448 64"
 	editor
 	{
 		"color" "255 100 0"
@@ -96416,7 +96416,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"texframeindex" "0"
-	"origin" "-3968 832 64"
+	"origin" "-4032 832 64"
 	editor
 	{
 		"color" "255 100 0"
