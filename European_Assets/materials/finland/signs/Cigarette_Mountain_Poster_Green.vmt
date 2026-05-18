@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "finland/signs/Cigarette_Mountain_Poster_Green"
+	"$decal" 1
+	"$decalscale" 1
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "tf,europa,europe,finland,finnish"
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "europe/signs/Generic_European_Point_C_Blue"
+	"$decal" 1
+	"$decalscale" 1
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "tf,europa,europe"
+}

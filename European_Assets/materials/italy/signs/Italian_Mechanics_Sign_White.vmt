@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "italy/signs/Italian_Mechanics_Sign_White"
+	"$decal" 1
+	"$decalscale" 1
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "tf,europa,europe,italy,italian"
+}
