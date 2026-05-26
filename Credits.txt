@@ -680,14 +680,17 @@ europe/signs/European_Barber_Blue				tricky_biz		Yes
 europe/signs/European_Barber_Red				tricky_biz		Yes
 europe/signs/European_Horse_Sign				tricky_biz		Yes
 europe/signs/European_Beer_Sign					tricky_biz		Yes
-europe/signs/Generic_European_Point_A_Blue			tricky_biz		Yes
-europe/signs/Generic_European_Point_A_Red			tricky_biz		Yes
-europe/signs/Generic_European_Point_B_Blue			tricky_biz		Yes
-europe/signs/Generic_European_Point_B_Red			tricky_biz		Yes
-europe/signs/Generic_European_Point_C_Blue			tricky_biz		Yes
-europe/signs/Generic_European_Point_C_Red			tricky_biz		Yes
-europe/signs/Generic_European_Point_D_Blue			tricky_biz		Yes
-europe/signs/Generic_European_Point_D_Red			tricky_biz		Yes
+europe/signs/Generic_European_Point_A_Blue			tricky_biz		Optional
+europe/signs/Generic_European_Point_A_Red			tricky_biz		Optional
+europe/signs/Generic_European_Point_B_Blue			tricky_biz		Optional
+europe/signs/Generic_European_Point_B_Red			tricky_biz		Optional
+europe/signs/Generic_European_Point_C_Blue			tricky_biz		Optional
+europe/signs/Generic_European_Point_C_Red			tricky_biz		Optional
+europe/signs/Generic_European_Point_D_Blue			tricky_biz		Optional
+europe/signs/Generic_European_Point_D_Red			tricky_biz		Optional
+europe/signs/European_Canoe_Paddle_Sign_Blue			tricky_biz		Yes
+europe/signs/European_Canoe_Paddle_Sign_Red			tricky_biz		Yes
+europe/signs/European_Piston_Poster				tricky_biz		Yes
 
 netherlands/signs/Dutch_Horse_Racing				tricky_biz		Yes
 netherlands/signs/Dutch_Horse_Racing_Oval			tricky_biz		Yes
@@ -712,6 +715,9 @@ scotland/signs/Scottish_Mining_Operations_Minecart_Sign_Blue	tricky_biz		Yes
 scotland/signs/Scottish_Mining_Operations_Minecart_Sign_Red	tricky_biz		Yes
 scotland/signs/Scottish_Mining_Operations_Pickaxe_Sign_Blue	tricky_biz		Yes
 scotland/signs/Scottish_Mining_Operations_Pickaxe_Sign_Red	tricky_biz		Yes
+scotland/signs/Scottish_Train_Poster_Blue			tricky_biz		Yes
+scotland/signs/Scottish_Train_Poster_Green			tricky_biz		Yes
+scotland/signs/Scottish_Train_Poster_Red			tricky_biz		Yes
 
 finland/signs/Cigarette_Mountain_Poster_Blue			tricky_biz		Yes
 finland/signs/Cigarette_Mountain_Poster_Green			tricky_biz		Yes
@@ -745,14 +751,14 @@ germany/signs/German_Driver_Sign_Red				tricky_biz		Yes
 germany/signs/German_Krit_Uber_Soda_Poster_Blue			tricky_biz		Yes
 germany/signs/German_Krit_Uber_Soda_Poster_Red			tricky_biz		Yes
 germany/signs/German_Krit_Uber_Soda_Poster_White		tricky_biz		Yes
-germany/signs/German_Point_A_Blue				tricky_biz		Yes
-germany/signs/German_Point_B_Blue				tricky_biz		Yes
-germany/signs/German_Point_C_Blue				tricky_biz		Yes
-germany/signs/German_Point_D_Blue				tricky_biz		Yes
-germany/signs/German_Point_A_Red				tricky_biz		Yes
-germany/signs/German_Point_B_Red				tricky_biz		Yes
-germany/signs/German_Point_C_Red				tricky_biz		Yes
-germany/signs/German_Point_D_Red				tricky_biz		Yes
+germany/signs/German_Point_A_Blue				tricky_biz		Optional
+germany/signs/German_Point_B_Blue				tricky_biz		Optional
+germany/signs/German_Point_C_Blue				tricky_biz		Optional
+germany/signs/German_Point_D_Blue				tricky_biz		Optional
+germany/signs/German_Point_A_Red				tricky_biz		Optional
+germany/signs/German_Point_B_Red				tricky_biz		Optional
+germany/signs/German_Point_C_Red				tricky_biz		Optional
+germany/signs/German_Point_D_Red				tricky_biz		Optional
 
 italy/signs/Zippy_Plow_Italian_Red				tricky_biz		Yes
 italy/signs/Zippy_Plow_Italian_Green				tricky_biz		Yes
