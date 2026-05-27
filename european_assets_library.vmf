@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8871"
-	"mapversion" "432"
+	"mapversion" "434"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -143,7 +143,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "432"
+	"mapversion" "434"
 	"classname" "worldspawn"
 	"_minlight" "0.0"
 	"detailmaterial" "detailsprites"
@@ -151,7 +151,7 @@ world
 	"maxoccludeearea" "0.0"
 	"maxpropscreenwidth" "-1"
 	"minoccluderarea" "0.0"
-	"skyname" "sky_europe_dark_01"
+	"skyname" "sky_british_01"
 	solid
 	{
 		"id" "2"
@@ -18431,7 +18431,7 @@ world
 				"v" "-8704 4096 128"
 				"v" "-8704 4096 0"
 			}
-			"material" "SKYBOX/SKY_ITALY_01FT"
+			"material" "SKYBOX/SKY_BRITISH_01FT"
 			"uaxis" "[1 0 0 0] 8"
 			"vaxis" "[0 0 -1 0] 8"
 			"rotation" "0"
@@ -18550,7 +18550,7 @@ world
 				"v" "-8960 4096 128"
 				"v" "-8960 4096 0"
 			}
-			"material" "SKYBOX/SKY_ITALY_01RT"
+			"material" "SKYBOX/SKY_BRITISH_01BK"
 			"uaxis" "[1 0 0 0] 8"
 			"vaxis" "[0 0 -1 0] 8"
 			"rotation" "0"
@@ -18669,7 +18669,7 @@ world
 				"v" "-8448 4096 128"
 				"v" "-8448 4096 0"
 			}
-			"material" "SKYBOX/SKY_ITALY_01LF"
+			"material" "SKYBOX/SKY_BRITISH_01LF"
 			"uaxis" "[1 0 0 0] 8"
 			"vaxis" "[0 0 -1 0] 8"
 			"rotation" "0"
@@ -18788,7 +18788,7 @@ world
 				"v" "-8192 4096 128"
 				"v" "-8192 4096 0"
 			}
-			"material" "SKYBOX/SKY_ITALY_01BK"
+			"material" "SKYBOX/SKY_BRITISH_01RT"
 			"uaxis" "[1 0 0 0] 8"
 			"vaxis" "[0 0 -1 0] 8"
 			"rotation" "0"
