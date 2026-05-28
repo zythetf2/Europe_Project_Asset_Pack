@@ -804,7 +804,20 @@ sweden/signs/Swedish_Bus_Depot_Poster_Blue			tricky_biz		Yes
 
 
 
-
-
-
-
+MODEL NAME							AUTHOR			CREDIT
+props_europe/bollards/chain					pr0jesse, Endi		Yes
+props_europe/bollards/bollard2					pr0jesse, Endi		Yes
+props_europe/bollards/bollard3					pr0jesse, Endi		Yes
+props_europe/bollards/bollard4					pr0jesse, Endi		Yes
+props_europe/bollards/bollard5					pr0jesse, Endi		Yes
+props_europe/bollards/bollard6					pr0jesse, Endi		Yes
+props_europe/bollards/bollard7					pr0jesse, Endi		Yes
+props_europe/bollards/bollard8					pr0jesse, Endi		Yes
+props_europe/bollards/bollard9					pr0jesse, Endi		Yes
+props_europe/bollards/bollard10					pr0jesse, Endi		Yes
+props_europe/bollards/bollard11					pr0jesse, Endi		Yes
+props_europe/bollards/bollard12					pr0jesse, Endi		Yes
+props_europe/bollards/bollard13					pr0jesse, Endi		Yes
+props_europe/bollards/bollard14					pr0jesse, Endi		Yes
+props_europe/bollards/bollard_chain_holder_double		pr0jesse, Endi		Yes
+props_europe/bollards/bollard_chain_holder_single		pr0jesse, Endi		Yes
