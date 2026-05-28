@@ -26,6 +26,7 @@ sky_europe_dark_01					Zythe_			No
 sky_italy_01						KrazyZark		Yes
 sky_british_01						Freyja			Yes
 sky_austria_01						Freyja			Yes
+sky_austria_02						Freyja			Yes
 
 
 MODEL NAME						AUTHOR			CREDIT
