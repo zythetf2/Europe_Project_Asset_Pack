@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture"	"albania\greek_cobble_trim01"
+	"$bumpmap" "albania\greek_cobble_trim01_ssbump"
+
+	"$ssbump" "1"	
+	"$surfaceprop" "concrete"
+
+	
+	"%keywords" "tf, greek, greece, hades"
+}

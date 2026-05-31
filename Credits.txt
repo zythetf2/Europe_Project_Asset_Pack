@@ -66,31 +66,30 @@ europe/signs/monitor_europa_map_red01b			Entropy			Optional (permission to modif
 
 
 TEXTURE NAME						AUTHOR			CREDIT
-plaster_blue						Idolon			Optional
-plaster_red						Idolon			Optional
-plaster_blue_blend					Idolon, Freyja		Yes
-plaster_red_blend					Idolon, Freyja		Yes
-plaster_white_blend					Idolon, Freyja		Yes
-lovely/greek_cobble_trim01				Idolon, Freyja		Yes
-lovely/stonewall003c					Idolon, Berry		Optional
-lovely/cobbleground					Idolon			Optional
-lovely/yellowgrass					Idolon			Optional
+albania/plaster_blue					Idolon			Optional
+albania/plaster_red					Idolon			Optional
+albania/plaster_blue_blend				Idolon, Freyja		Yes
+albania/plaster_red_blend				Idolon, Freyja		Yes
+albania/plaster_white_blend				Idolon, Freyja		Yes
+albania/greek_cobble_trim01				Idolon, Freyja		Yes
+albania/stonewall003c					Idolon, Berry		Optional
+albania/cobbleground					Idolon			Optional
+albania/yellowgrass					Idolon			Optional
 
 MODEL NAME						AUTHOR			CREDIT
-lovely/window_1						Idolon			Optional
-lovely/window_1_16thick					Idolon			Optional
-lovely/window_1_open					Idolon			Optional
-lovely/window_2						Idolon			Optional
-lovely/window_2_open					Idolon			Optional
-lovely/door_1						Idolon			Optional
-lovely/door_2						Idolon			Optional
-lovely/chimney						Idolon, Freyja		Yes
-lovely/cornice_cap_64					Idolon, Freyja		Yes
-lovely/rustify_corner_128				Idolon			Optional
-lovely/rustify_corner_64				Idolon			Optional
-lovely/window_flowerholder				Idolon			Optional
-lovely/wood_nub_1					Idolon			Optional
-lovely/handrail_rib					Idolon			Optional
+props_albania/window_1					Idolon			Optional
+props_albania/window_1_16thick				Idolon			Optional
+props_albania/window_1_open				Idolon			Optional
+props_albania/window_2					Idolon			Optional
+props_albania/window_2_open				Idolon			Optional
+props_albania/door_1					Idolon			Optional
+props_albania/door_2					Idolon			Optional
+props_albania/chimney					Idolon, Freyja		Yes
+props_albania/rustify_corner_128			Idolon			Optional
+props_albania/rustify_corner_64				Idolon			Optional
+props_albania/rustify_corner_32				Idolon			Optional
+props_albania/window_flowerholder			Idolon			Optional
+props_albania/wood_nub_1				Idolon			Optional
 
 
 

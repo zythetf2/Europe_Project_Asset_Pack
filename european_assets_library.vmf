@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8871"
-	"mapversion" "457"
+	"mapversion" "464"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -98,7 +98,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "256"
+	"nGridSpacing" "32"
 }
 palette_plus
 {
@@ -173,7 +173,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "457"
+	"mapversion" "464"
 	"classname" "worldspawn"
 	"_minlight" "0.0"
 	"detailmaterial" "detailsprites"
@@ -434,7 +434,7 @@ world
 				"v" "-5376 2688 32"
 				"v" "-5632 2688 32"
 			}
-			"material" "LOVELY/PLASTER_RED"
+			"material" "ALBANIA/PLASTER_RED"
 			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -553,7 +553,7 @@ world
 				"v" "-5632 2688 32"
 				"v" "-5888 2688 32"
 			}
-			"material" "LOVELY/PLASTER_BLUE"
+			"material" "ALBANIA/PLASTER_BLUE"
 			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -672,7 +672,7 @@ world
 				"v" "-5888 2944 32"
 				"v" "-6144 2944 32"
 			}
-			"material" "LOVELY/STONEWALL003C"
+			"material" "ALBANIA/STONEWALL003C"
 			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -791,7 +791,7 @@ world
 				"v" "-5888 2688 32"
 				"v" "-6144 2688 32"
 			}
-			"material" "LOVELY/GREEK_COBBLE_TRIM01"
+			"material" "ALBANIA/GREEK_COBBLE_TRIM01"
 			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -12737,7 +12737,7 @@ world
 				"v" "-5632 2944 32"
 				"v" "-5888 2944 32"
 			}
-			"material" "LOVELY/PLASTER_BLUE_BLEND"
+			"material" "ALBANIA/PLASTER_BLUE_BLEND"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -12915,7 +12915,7 @@ world
 				"v" "-5376 2944 32"
 				"v" "-5632 2944 32"
 			}
-			"material" "LOVELY/PLASTER_RED_BLEND"
+			"material" "ALBANIA/PLASTER_RED_BLEND"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13093,7 +13093,7 @@ world
 				"v" "-5376 3200 32"
 				"v" "-5632 3200 32"
 			}
-			"material" "LOVELY/PLASTER_WHITE_BLEND"
+			"material" "ALBANIA/PLASTER_WHITE_BLEND"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13271,7 +13271,7 @@ world
 				"v" "-5632 3200 32"
 				"v" "-5888 3200 32"
 			}
-			"material" "LOVELY/YELLOWGRASS"
+			"material" "ALBANIA/YELLOWGRASS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13449,7 +13449,7 @@ world
 				"v" "-5888 3200 32"
 				"v" "-6144 3200 32"
 			}
-			"material" "LOVELY/COBBLEGROUND"
+			"material" "ALBANIA/COBBLEGROUND"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -42311,32 +42311,10 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/chimney.mdl"
+	"model" "models/props_albania/chimney.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5824 3584 64"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupid" "8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "270"
-	"classname" "prop_static"
-	"angles" "0 270 0"
-	"fademindist" "-1"
-	"fadescale" "1.0"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/lovely/cornice_cap_64.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5696 3584 64"
 	editor
 	{
 		"color" "255 255 0"
@@ -42355,7 +42333,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/door_1.mdl"
+	"model" "models/props_albania/door_1.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-6016 3584 64"
@@ -42377,32 +42355,10 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/door_2.mdl"
+	"model" "models/props_albania/door_2.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5952 3584 64"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupid" "8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "288"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"fademindist" "-1"
-	"fadescale" "1.0"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/lovely/handrail_rib.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5568 3584 256"
 	editor
 	{
 		"color" "255 255 0"
@@ -42421,7 +42377,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/rustify_corner_128.mdl"
+	"model" "models/props_albania/rustify_corner_128.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5568 3584 64"
@@ -42443,7 +42399,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/rustify_corner_64.mdl"
+	"model" "models/props_albania/rustify_corner_64.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5504 3584 64"
@@ -42465,7 +42421,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/window_1.mdl"
+	"model" "models/props_albania/window_1.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-6016 3584 320"
@@ -42487,7 +42443,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/window_1_16thick.mdl"
+	"model" "models/props_albania/window_1_16thick.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5952 3584 320"
@@ -42509,7 +42465,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/window_1_open.mdl"
+	"model" "models/props_albania/window_1_open.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5888 3584 320"
@@ -42531,7 +42487,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/window_2.mdl"
+	"model" "models/props_albania/window_2.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5824 3584 320"
@@ -42553,7 +42509,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/window_2_open.mdl"
+	"model" "models/props_albania/window_2_open.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5760 3584 320"
@@ -42575,7 +42531,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/window_flowerholder.mdl"
+	"model" "models/props_albania/window_flowerholder.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5696 3584 320"
@@ -42597,7 +42553,7 @@ entity
 	"fadescale" "1.0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/lovely/wood_nub_1.mdl"
+	"model" "models/props_albania/wood_nub_1.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-5632 3584 272"
@@ -42634,7 +42590,7 @@ entity
 	"classname" "editor_text"
 	"angles" "-0 90 0"
 	"color" "220 220 220"
-	"message" "These two props require the"
+	"message" "This prop require the"
 	"textsize" "10"
 	"origin" "-5792 3568 128"
 	editor
@@ -104406,6 +104362,28 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "469485"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1.0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_albania/rustify_corner_32.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-5440 3584 64"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupid" "8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
 	}
 }
 cameras

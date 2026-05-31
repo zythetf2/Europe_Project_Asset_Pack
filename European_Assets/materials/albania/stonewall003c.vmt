@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "albania/stonewall003c"
+	"$bumpmap"	"medieval/stonewall001a_ssbump"
+	"$ssbump"	"1"
+	"$surfaceprop"	"concrete"
+	"%keywords"	"tf, autumnal"
+}
