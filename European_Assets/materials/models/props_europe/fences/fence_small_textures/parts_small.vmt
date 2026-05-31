@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models/european_props/fences/fence_small_textures/parts_small"
+	"$basetexture" "models/props_europe/fences/fence_1_textures/parts"
 "$lightwarptexture"        "models/player/pyro/pyro_lightwarp"
 "$phongexponenttexture"        ""
 "$phong"        "1"
