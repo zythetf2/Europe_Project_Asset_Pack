@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "italy/signs/Happy_Farmers_Italian_Blue"
+	"$baseTexture" "italy/signs/happy_farmers_italian_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "france/signs/Le_Cafe_French_Sign_Right"
+	"$baseTexture" "france/signs/le_cafe_french_sign_right"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

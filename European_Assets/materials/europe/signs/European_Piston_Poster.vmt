@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "europe/signs/European_Piston_Poster"
+	"$baseTexture" "europe/signs/european_piston_poster"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

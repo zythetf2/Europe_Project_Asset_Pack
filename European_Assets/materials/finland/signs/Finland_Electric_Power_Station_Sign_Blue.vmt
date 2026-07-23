@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "finland/signs/Finland_Electric_Power_Station_Sign_Blue"
+	"$baseTexture" "finland/signs/finland_electric_power_station_sign_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

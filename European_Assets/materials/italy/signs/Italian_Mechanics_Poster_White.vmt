@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "italy/signs/Italian_Mechanics_Poster_White"
+	"$baseTexture" "italy/signs/italian_mechanics_poster_white"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

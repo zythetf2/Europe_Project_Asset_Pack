@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "france/signs/French_Radio_Store_Sign_Blue"
+	"$baseTexture" "france/signs/french_radio_store_sign_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

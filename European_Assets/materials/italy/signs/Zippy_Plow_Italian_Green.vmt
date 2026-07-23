@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "italy/signs/Zippy_Plow_Italian_Green"
+	"$baseTexture" "italy/signs/zippy_plow_italian_green"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

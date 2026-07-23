@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "sweden/signs/Swedish_Bus_Depot_Poster_Blue"
+	"$baseTexture" "sweden/signs/swedish_bus_depot_poster_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

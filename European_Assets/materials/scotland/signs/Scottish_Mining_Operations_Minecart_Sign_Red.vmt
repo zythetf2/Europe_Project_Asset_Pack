@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "scotland/signs/Scottish_Mining_Operations_Minecart_Sign_Red"
+	"$baseTexture" "scotland/signs/scottish_mining_operations_minecart_sign_red"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

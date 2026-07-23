@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 Credits for the Operation Europa Asset Pack.
 --> For all assets with the label "yes", credit is required, non-negotiable.
---> For all assets with the label "optional", credit would be appreciated, but is not necessarily required, negotiable. (permission to modify may be required)
+--> For all assets with the label "optional", credit would be appreciated, but is not necessarily required, negotiable.
 --> For all assets with the label "no", credit is not required.
 
 _______________________________________________________________________________________________________________________
@@ -57,10 +57,10 @@ austria/signs/sign_pipecontrol01			Zythe_			Optional
 austria/signs/sign_pipeunstable01			Zythe_			Optional
 austria/signs/sign_waterunfitfordrinking01		Zythe_			Optional
 
-europe/signs/monitor_europa_map_blu01a			Entropy			Optional (permission to modify required)
-europe/signs/monitor_europa_map_red01a			Entropy			Optional (permission to modify required)
-europe/signs/monitor_europa_map_blu01b			Entropy			Optional (permission to modify required)
-europe/signs/monitor_europa_map_red01b			Entropy			Optional (permission to modify required)
+europe/signs/monitor_europa_map_blu01a			Entropy			Optional
+europe/signs/monitor_europa_map_red01a			Entropy			Optional
+europe/signs/monitor_europa_map_blu01b			Entropy			Optional
+europe/signs/monitor_europa_map_red01b			Entropy			Optional
 
 
 

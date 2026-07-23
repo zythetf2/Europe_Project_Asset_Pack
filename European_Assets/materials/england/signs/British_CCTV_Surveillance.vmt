@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "england/signs/British_CCTV_Surveillance"
+	"$baseTexture" "england/signs/british_cctv_surveillance"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

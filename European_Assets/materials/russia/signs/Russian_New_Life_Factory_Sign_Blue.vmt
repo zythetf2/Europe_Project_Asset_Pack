@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "russia/signs/Russian_New_Life_Factory_Sign_Blue"
+	"$baseTexture" "russia/signs/russian_new_life_factory_sign_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

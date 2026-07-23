@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "germany/signs/German_Doctor_Home_Visit_Poster"
+	"$baseTexture" "germany/signs/german_doctor_home_visit_poster"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

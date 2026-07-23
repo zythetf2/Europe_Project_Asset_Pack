@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "germany/signs/German_Point_B_Red"
+	"$baseTexture" "germany/signs/german_point_b_red"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

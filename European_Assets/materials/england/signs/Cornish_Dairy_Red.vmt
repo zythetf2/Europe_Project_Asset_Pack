@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "england/signs/Cornish_Dairy_Red"
+	"$baseTexture" "england/signs/cornish_dairy_red"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

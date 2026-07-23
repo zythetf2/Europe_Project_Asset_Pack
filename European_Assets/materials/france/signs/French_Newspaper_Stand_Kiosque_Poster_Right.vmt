@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "france/signs/French_Newspaper_Stand_Kiosque_Poster_Right"
+	"$baseTexture" "france/signs/french_newspaper_stand_kiosque_poster_right"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

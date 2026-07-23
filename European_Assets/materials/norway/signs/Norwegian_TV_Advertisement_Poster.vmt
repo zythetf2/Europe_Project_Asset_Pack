@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "norway/signs/Norwegian_TV_Advertisement_Poster"
+	"$baseTexture" "norway/signs/norwegian_tv_advertisement_poster"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

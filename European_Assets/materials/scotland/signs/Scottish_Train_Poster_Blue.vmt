@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "scotland/signs/Scottish_Train_Poster_Blue"
+	"$baseTexture" "scotland/signs/scottish_train_poster_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "norway/signs/Norwegian_Butcher_Sign_Blue"
+	"$baseTexture" "norway/signs/norwegian_butcher_sign_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1

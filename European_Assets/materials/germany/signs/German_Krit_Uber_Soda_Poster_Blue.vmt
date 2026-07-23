@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "germany/signs/German_Krit_Uber_Soda_Poster_Blue"
+	"$baseTexture" "germany/signs/german_krit_uber_soda_poster_blue"
 	"$decal" 1
 	"$decalscale" 1
 	"$translucent" 1
