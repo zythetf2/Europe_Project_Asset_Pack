@@ -1,9 +1,9 @@
 _______________________________________________________________________________________________________________________
 
 Credits for the Operation Europa Asset Pack.
---> For all assets with the label "yes", credit is required, non-negotiable.
---> For all assets with the label "optional", credit would be appreciated, but is not necessarily required, negotiable.
---> For all assets with the label "no", credit is not required.
+--> For all assets with the label "Yes", CREDIT is required, non-negotiable.
+--> For all assets with the label "Optional", CREDIT would be appreciated, but is not necessarily required, negotiable.
+--> For all assets with the label "No", CREDIT is not required.
 
 _______________________________________________________________________________________________________________________
 
@@ -404,7 +404,6 @@ italy/vehicles/basket01					KrazyZark		Yes
 italy/vehicles/basket01a				KrazyZark		Yes
 italy/vehicles/basket02					KrazyZark		Yes
 italy/vehicles/basket02a				KrazyZark		Yes
-// --Check for Status-- // italy/vehicles/cargo_boat_01				KrazyZark		Yes
 italy/vehicles/gondola_01				KrazyZark		Yes
 italy/vehicles/gondola_02				KrazyZark		Yes
 italy/vehicles/mini_01					KrazyZark		Yes
@@ -678,127 +677,127 @@ props_austria/window_bricktrim					FGD5, blaholtzen	Yes
 
 
 TEXTURE NAME							AUTHOR			CREDIT
-europe/signs/European_Barber_Blue				tricky_biz		Yes
-europe/signs/European_Barber_Red				tricky_biz		Yes
-europe/signs/European_Horse_Sign				tricky_biz		Yes
-europe/signs/European_Beer_Sign					tricky_biz		Yes
-europe/signs/Generic_European_Point_A_Blue			tricky_biz		Optional
-europe/signs/Generic_European_Point_A_Red			tricky_biz		Optional
-europe/signs/Generic_European_Point_B_Blue			tricky_biz		Optional
-europe/signs/Generic_European_Point_B_Red			tricky_biz		Optional
-europe/signs/Generic_European_Point_C_Blue			tricky_biz		Optional
-europe/signs/Generic_European_Point_C_Red			tricky_biz		Optional
-europe/signs/Generic_European_Point_D_Blue			tricky_biz		Optional
-europe/signs/Generic_European_Point_D_Red			tricky_biz		Optional
-europe/signs/European_Canoe_Paddle_Sign_Blue			tricky_biz		Yes
-europe/signs/European_Canoe_Paddle_Sign_Red			tricky_biz		Yes
-europe/signs/European_Piston_Poster				tricky_biz		Yes
+europe/signs/european_barber_blue				tricky_biz		Yes
+europe/signs/european_barber_red				tricky_biz		Yes
+europe/signs/european_horse_sign				tricky_biz		Yes
+europe/signs/european_beer_sign					tricky_biz		Yes
+europe/signs/generic_european_point_a_blue			tricky_biz		Optional
+europe/signs/generic_european_point_a_red			tricky_biz		Optional
+europe/signs/generic_european_point_b_blue			tricky_biz		Optional
+europe/signs/generic_european_point_b_red			tricky_biz		Optional
+europe/signs/generic_european_point_c_blue			tricky_biz		Optional
+europe/signs/generic_european_point_c_red			tricky_biz		Optional
+europe/signs/generic_european_point_d_blue			tricky_biz		Optional
+europe/signs/generic_european_point_d_red			tricky_biz		Optional
+europe/signs/european_caNoe_paddle_sign_blue			tricky_biz		Yes
+europe/signs/european_caNoe_paddle_sign_red			tricky_biz		Yes
+europe/signs/european_piston_poster				tricky_biz		Yes
 
-netherlands/signs/Dutch_Horse_Racing				tricky_biz		Yes
-netherlands/signs/Dutch_Horse_Racing_Oval			tricky_biz		Yes
-netherlands/signs/Dutch_Windmill_Poster				tricky_biz		Yes
-netherlands/signs/Dutch_Bicycle_Poster_Red			tricky_biz		Yes
-netherlands/signs/Dutch_Bicycle_Poster_Blue			tricky_biz		Yes
-netherlands/signs/Dutch_Bicycle_Sign_Red			tricky_biz		Yes
-netherlands/signs/Dutch_Bicycle_Sign_Blue			tricky_biz		Yes
-netherlands/signs/Dutch_Private_Area_Sign_Red			tricky_biz		Yes
-netherlands/signs/Dutch_Private_Area_Sign_Blue			tricky_biz		Yes
+netherlands/signs/dutch_horse_racing				tricky_biz		Yes
+netherlands/signs/dutch_horse_racing_oval			tricky_biz		Yes
+netherlands/signs/dutch_windmill_poster				tricky_biz		Yes
+netherlands/signs/dutch_bicycle_poster_red			tricky_biz		Yes
+netherlands/signs/dutch_bicycle_poster_blue			tricky_biz		Yes
+netherlands/signs/dutch_bicycle_sign_red			tricky_biz		Yes
+netherlands/signs/dutch_bicycle_sign_blue			tricky_biz		Yes
+netherlands/signs/dutch_private_area_sign_red			tricky_biz		Yes
+netherlands/signs/dutch_private_area_sign_blue			tricky_biz		Yes
 
-england/signs/British_CCTV_Surveillance				tricky_biz		Yes
-england/signs/Cornish_Dairy_Black				tricky_biz		Yes
-england/signs/Cornish_Dairy_Blue				tricky_biz		Yes
-england/signs/Cornish_Dairy_Red					tricky_biz		Yes
-england/signs/Harvs_Barber_Blue					tricky_biz		Yes
-england/signs/Harvs_Barber_Blue_Oval				tricky_biz		Yes
-england/signs/Harvs_Barber_Red					tricky_biz		Yes
-england/signs/Harvs_Barber_Red_Oval				tricky_biz		Yes
+england/signs/british_cctv_surveillance				tricky_biz		Yes
+england/signs/cornish_dairy_black				tricky_biz		Yes
+england/signs/cornish_dairy_blue				tricky_biz		Yes
+england/signs/cornish_dairy_red					tricky_biz		Yes
+england/signs/harvs_barber_blue					tricky_biz		Yes
+england/signs/harvs_barber_blue_oval				tricky_biz		Yes
+england/signs/harvs_barber_red					tricky_biz		Yes
+england/signs/harvs_barber_red_oval				tricky_biz		Yes
 
-scotland/signs/Scottish_Mining_Operations_Minecart_Sign_Blue	tricky_biz		Yes
-scotland/signs/Scottish_Mining_Operations_Minecart_Sign_Red	tricky_biz		Yes
-scotland/signs/Scottish_Mining_Operations_Pickaxe_Sign_Blue	tricky_biz		Yes
-scotland/signs/Scottish_Mining_Operations_Pickaxe_Sign_Red	tricky_biz		Yes
-scotland/signs/Scottish_Train_Poster_Blue			tricky_biz		Yes
-scotland/signs/Scottish_Train_Poster_Green			tricky_biz		Yes
-scotland/signs/Scottish_Train_Poster_Red			tricky_biz		Yes
+scotland/signs/scottish_mining_operations_minecart_sign_blue	tricky_biz		Yes
+scotland/signs/scottish_mining_operations_minecart_sign_red	tricky_biz		Yes
+scotland/signs/scottish_mining_operations_pickaxe_sign_blue	tricky_biz		Yes
+scotland/signs/scottish_mining_operations_pickaxe_sign_red	tricky_biz		Yes
+scotland/signs/scottish_train_poster_blue			tricky_biz		Yes
+scotland/signs/scottish_train_poster_green			tricky_biz		Yes
+scotland/signs/scottish_train_poster_red			tricky_biz		Yes
 
-finland/signs/Cigarette_Mountain_Poster_Blue			tricky_biz		Yes
-finland/signs/Cigarette_Mountain_Poster_Green			tricky_biz		Yes
-finland/signs/Cigarette_Mountain_Poster_Red			tricky_biz		Yes
-finland/signs/Cigarette_Mountain_Store_Sign_Blue		tricky_biz		Yes
-finland/signs/Cigarette_Mountain_Store_Sign_Green		tricky_biz		Yes
-finland/signs/Cigarette_Mountain_Store_Sign_Red			tricky_biz		Yes
-finland/signs/Finland_Petrol_Poster_Blue			tricky_biz		Yes
-finland/signs/Finland_Petrol_Poster_Red				tricky_biz		Yes
-finland/signs/Finland_Petrol_Poster				tricky_biz		Yes
-finland/signs/Finland_Electric_Power_Station_Sign_Red		tricky_biz		Yes
-finland/signs/Finland_Electric_Power_Station_Sign_Blue		tricky_biz		Yes
+finland/signs/cigarette_mountain_poster_blue			tricky_biz		Yes
+finland/signs/cigarette_mountain_poster_green			tricky_biz		Yes
+finland/signs/cigarette_mountain_poster_red			tricky_biz		Yes
+finland/signs/cigarette_mountain_store_sign_blue		tricky_biz		Yes
+finland/signs/cigarette_mountain_store_sign_green		tricky_biz		Yes
+finland/signs/cigarette_mountain_store_sign_red			tricky_biz		Yes
+finland/signs/finland_petrol_poster_blue			tricky_biz		Yes
+finland/signs/finland_petrol_poster_red				tricky_biz		Yes
+finland/signs/finland_petrol_poster				tricky_biz		Yes
+finland/signs/finland_electric_power_station_sign_red		tricky_biz		Yes
+finland/signs/finland_electric_power_station_sign_blue		tricky_biz		Yes
 
-france/signs/Le_Cafe_French_Sign				tricky_biz		Yes
-france/signs/Le_Cafe_French_Sign_Left				tricky_biz		Yes
-france/signs/Le_Cafe_French_Sign_Right				tricky_biz		Yes
-france/signs/French_Newspaper_Stand_Kiosque_Sign		tricky_biz		Yes
-france/signs/French_Newspaper_Stand_Kiosque_Poster_Right	tricky_biz		Yes
-france/signs/French_Newspaper_Stand_Kiosque_Poster_Left		tricky_biz		Yes
-france/signs/French_Radio_Poster_Blue				tricky_biz		Yes
-france/signs/French_Radio_Poster_Red				tricky_biz		Yes
-france/signs/French_Radio_Store_Sign_Blue			tricky_biz		Yes
-france/signs/French_Radio_Store_Sign_Red			tricky_biz		Yes
-france/signs/French_Construction_Sign_Blue			tricky_biz		Yes
-france/signs/French_Construction_Sign_Red			tricky_biz		Yes
+france/signs/le_cafe_french_sign				tricky_biz		Yes
+france/signs/le_cafe_french_sign_left				tricky_biz		Yes
+france/signs/le_cafe_french_sign_right				tricky_biz		Yes
+france/signs/french_newspaper_stand_kiosque_sign		tricky_biz		Yes
+france/signs/french_newspaper_stand_kiosque_poster_right	tricky_biz		Yes
+france/signs/french_newspaper_stand_kiosque_poster_left		tricky_biz		Yes
+france/signs/french_radio_poster_blue				tricky_biz		Yes
+france/signs/french_radio_poster_red				tricky_biz		Yes
+france/signs/french_radio_store_sign_blue			tricky_biz		Yes
+france/signs/french_radio_store_sign_red			tricky_biz		Yes
+france/signs/french_construction_sign_blue			tricky_biz		Yes
+france/signs/french_construction_sign_red			tricky_biz		Yes
 
-germany/signs/German_Doctor_Home_Visit_Poster			tricky_biz		Yes
-germany/signs/German_Pharmacy_Sign				tricky_biz		Yes
-germany/signs/German_Driver_Sign_Blue				tricky_biz		Yes
-germany/signs/German_Driver_Sign_Red				tricky_biz		Yes
-germany/signs/German_Krit_Uber_Soda_Poster_Blue			tricky_biz		Yes
-germany/signs/German_Krit_Uber_Soda_Poster_Red			tricky_biz		Yes
-germany/signs/German_Krit_Uber_Soda_Poster_White		tricky_biz		Yes
-germany/signs/German_Point_A_Blue				tricky_biz		Optional
-germany/signs/German_Point_B_Blue				tricky_biz		Optional
-germany/signs/German_Point_C_Blue				tricky_biz		Optional
-germany/signs/German_Point_D_Blue				tricky_biz		Optional
-germany/signs/German_Point_A_Red				tricky_biz		Optional
-germany/signs/German_Point_B_Red				tricky_biz		Optional
-germany/signs/German_Point_C_Red				tricky_biz		Optional
-germany/signs/German_Point_D_Red				tricky_biz		Optional
+germany/signs/german_doctor_home_visit_poster			tricky_biz		Yes
+germany/signs/german_pharmacy_sign				tricky_biz		Yes
+germany/signs/german_driver_sign_blue				tricky_biz		Yes
+germany/signs/german_driver_sign_red				tricky_biz		Yes
+germany/signs/german_krit_uber_soda_poster_blue			tricky_biz		Yes
+germany/signs/german_krit_uber_soda_poster_red			tricky_biz		Yes
+germany/signs/german_krit_uber_soda_poster_white		tricky_biz		Yes
+germany/signs/german_point_a_blue				tricky_biz		Optional
+germany/signs/german_point_b_blue				tricky_biz		Optional
+germany/signs/german_point_c_blue				tricky_biz		Optional
+germany/signs/german_point_d_blue				tricky_biz		Optional
+germany/signs/german_point_a_red				tricky_biz		Optional
+germany/signs/german_point_b_red				tricky_biz		Optional
+germany/signs/german_point_c_red				tricky_biz		Optional
+germany/signs/german_point_d_red				tricky_biz		Optional
 
-italy/signs/Zippy_Plow_Italian_Red				tricky_biz		Yes
-italy/signs/Zippy_Plow_Italian_Green				tricky_biz		Yes
-italy/signs/Zippy_Plow_Italian_Blue				tricky_biz		Yes
-italy/signs/Trust_The_Best_Tractor_Red_Rainy_Night		tricky_biz		Yes
-italy/signs/Trust_The_Best_Tractor_Red				tricky_biz		Yes
-italy/signs/Trust_The_Best_Tractor_Green_Rainy_Night		tricky_biz		Yes
-italy/signs/Trust_The_Best_Tractor_Green			tricky_biz		Yes
-italy/signs/Trust_The_Best_Tractor_Blue_Rainy_Night		tricky_biz		Yes
-italy/signs/Trust_The_Best_Tractor_Blue				tricky_biz		Yes
-italy/signs/Italian_Mechanics_Sign_Yellow			tricky_biz		Yes
-italy/signs/Italian_Mechanics_Sign_White			tricky_biz		Yes
-italy/signs/Italian_Mechanics_Poster_Yellow			tricky_biz		Yes
-italy/signs/Italian_Mechanics_Poster_White			tricky_biz		Yes
-italy/signs/Happy_Farmers_Italian_White				tricky_biz		Yes
-italy/signs/Happy_Farmers_Italian_Red				tricky_biz		Yes
-italy/signs/Happy_Farmers_Italian_Blue				tricky_biz		Yes
+italy/signs/zippy_plow_italian_red				tricky_biz		Yes
+italy/signs/zippy_plow_italian_green				tricky_biz		Yes
+italy/signs/zippy_plow_italian_blue				tricky_biz		Yes
+italy/signs/trust_the_best_tractor_red_rainy_night		tricky_biz		Yes
+italy/signs/trust_the_best_tractor_red				tricky_biz		Yes
+italy/signs/trust_the_best_tractor_green_rainy_night		tricky_biz		Yes
+italy/signs/trust_the_best_tractor_green			tricky_biz		Yes
+italy/signs/trust_the_best_tractor_blue_rainy_night		tricky_biz		Yes
+italy/signs/trust_the_best_tractor_blue				tricky_biz		Yes
+italy/signs/italian_mechanics_sign_yellow			tricky_biz		Yes
+italy/signs/italian_mechanics_sign_white			tricky_biz		Yes
+italy/signs/italian_mechanics_poster_yellow			tricky_biz		Yes
+italy/signs/italian_mechanics_poster_white			tricky_biz		Yes
+italy/signs/happy_farmers_italian_white				tricky_biz		Yes
+italy/signs/happy_farmers_italian_red				tricky_biz		Yes
+italy/signs/happy_farmers_italian_blue				tricky_biz		Yes
 
-norway/signs/Norwegian_Painters_Business_Blue_Sign		tricky_biz		Yes
-norway/signs/Norwegian_Painters_Business_Mural_Black		tricky_biz		Yes
-norway/signs/Norwegian_Painters_Business_Mural_White		tricky_biz		Yes
-norway/signs/Norwegian_Painters_Business_Red_Sign		tricky_biz		Yes
-norway/signs/Norwegian_TV_Advertisement_Poster			tricky_biz		Yes
-norway/signs/Norwegian_Butcher_Sign_Red				tricky_biz		Yes
-norway/signs/Norwegian_Butcher_Sign_Blue			tricky_biz		Yes
-norway/signs/Norwegian_Bakery_Sign_Green			tricky_biz		Yes
-norway/signs/Norwegian_Bakery_Sign_Yellow			tricky_biz		Yes
+Norway/signs/Norwegian_painters_business_blue_sign		tricky_biz		Yes
+Norway/signs/Norwegian_painters_business_mural_black		tricky_biz		Yes
+Norway/signs/Norwegian_painters_business_mural_white		tricky_biz		Yes
+Norway/signs/Norwegian_painters_business_red_sign		tricky_biz		Yes
+Norway/signs/Norwegian_tv_advertisement_poster			tricky_biz		Yes
+Norway/signs/Norwegian_butcher_sign_red				tricky_biz		Yes
+Norway/signs/Norwegian_butcher_sign_blue			tricky_biz		Yes
+Norway/signs/Norwegian_bakery_sign_green			tricky_biz		Yes
+Norway/signs/Norwegian_bakery_sign_yellow			tricky_biz		Yes
 
-russia/signs/Russian_New_Life_Factory_Sign_Blue			tricky_biz		Yes
-russia/signs/Russian_New_Life_Factory_Sign_Red			tricky_biz		Yes
+russia/signs/russian_new_life_factory_sign_blue			tricky_biz		Yes
+russia/signs/russian_new_life_factory_sign_red			tricky_biz		Yes
 
-sweden/signs/Swedish_Fish_Market				tricky_biz		Yes
-sweden/signs/Swedish_Shoe_Tailor_Blue				tricky_biz		Yes
-sweden/signs/Swedish_Shoe_Tailor_Red				tricky_biz		Yes
-sweden/signs/Swedish_Chocolate_Sign_Red				tricky_biz		Yes
-sweden/signs/Swedish_Chocolate_Sign_Blue			tricky_biz		Yes
-sweden/signs/Swedish_Bus_Depot_Poster_Red			tricky_biz		Yes
-sweden/signs/Swedish_Bus_Depot_Poster_Blue			tricky_biz		Yes
+sweden/signs/swedish_fish_market				tricky_biz		Yes
+sweden/signs/swedish_shoe_tailor_blue				tricky_biz		Yes
+sweden/signs/swedish_shoe_tailor_red				tricky_biz		Yes
+sweden/signs/swedish_chocolate_sign_red				tricky_biz		Yes
+sweden/signs/swedish_chocolate_sign_blue			tricky_biz		Yes
+sweden/signs/swedish_bus_depot_poster_red			tricky_biz		Yes
+sweden/signs/swedish_bus_depot_poster_blue			tricky_biz		Yes
 
 
 
