@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8871"
-	"mapversion" "464"
+	"mapversion" "471"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -173,7 +173,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "464"
+	"mapversion" "471"
 	"classname" "worldspawn"
 	"_minlight" "0.0"
 	"detailmaterial" "detailsprites"
@@ -42590,7 +42590,7 @@ entity
 	"classname" "editor_text"
 	"angles" "-0 90 0"
 	"color" "220 220 220"
-	"message" "This prop require the"
+	"message" "This prop requires the"
 	"textsize" "10"
 	"origin" "-5792 3568 128"
 	editor
