@@ -1,0 +1,15 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "netherlands/klinker_path028"
+	"$basetexture2" "Nature/grass_07"
+ $bumpmap "netherlands/klinker_path028_normal"
+$bumpmap2 "netherlands/normal_neutraal"
+	"%tooltexture" "netherlands/klinker_path028"
+	"$blendmodulatetexture" "netherlands/blendmask_grass"
+	"%detailtype" "tf_forest_grass"
+	"%keywords" "tf"
+	"$surfaceprop" "brick"
+	"$surfaceprop2" "grass"
+
+
+}

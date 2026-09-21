@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "netherlands/submerged_clay_bank001"
+	"$basetexture2" "Nature/grass_07"
+$bumpmap "netherlands/normal_neutraal"
+	"%tooltexture" "netherlands/submerged_clay_bank001"
+	"$blendmodulatetexture" "netherlands/blendmask_grass"
+	"%detailtype" "tf_forest_grass"
+	"%keywords" "tf"
+	"$surfaceprop" "mud"
+	"$surfaceprop2" "grass"
+
+
+}

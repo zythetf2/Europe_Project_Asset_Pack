@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "netherlands/clay001"
+	"$basetexture2" "Nature/grass_07"
+$bumpmap "netherlands/normal_neutraal"
+	"%tooltexture" "netherlands/clay001"
+	"$blendmodulatetexture" "netherlands/blendmask_grass"
+	"%detailtype" "tf_forest_grass"
+	"%keywords" "tf"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "grass"
+
+
+}

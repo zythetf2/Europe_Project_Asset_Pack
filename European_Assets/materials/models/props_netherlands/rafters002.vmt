@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_netherlands/rafters002"
+	 $surfaceprop wood // physics type
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/wallpaper001_skirtingboard001" // diffuse map
+ 
+ $surfaceprop brick // physics type
+"%keywords" "tf"
+}

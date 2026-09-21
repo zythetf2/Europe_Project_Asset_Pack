@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/trims_papermache_crown_moulding001" // diffuse map
+ 
+ $bumpmap "netherlands/trims_papermache_crown_moulding001_moulding" // normal map
+ 
+ $normalmapalphaenvmapmask 1 // use the alpha channel of normal map as specular map
+"$envmap" "env_cubemap"
+ $envmapsaturation 0.5
+ $envmapcontrast 1
+ $envmaptint "[0.5 0.5 0.5]"
+
+ $surfaceprop brick // physics type
+"%keywords" "tf"
+}

@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/wallpaper002_wainscoting001" // diffuse map
+ 
+ $bumpmap "netherlands/plasterwall_wainscoting_normal" // normal map
+ 
+ $surfaceprop brick // physics type
+"%keywords" "tf"
+}

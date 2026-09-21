@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/trims_wood_cornice001" // diffuse map
+ 
+ $bumpmap "netherlands/trims_wood_cornice_normal" // normal map
+ 
+ $surfaceprop wood // physics type
+"%keywords" "tf"
+}

@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/brickwall002" // diffuse map
+ 
+ $bumpmap "netherlands/brickwall_normal" // normal map
+ 
+"$detail" "overlays/detail001"
+"$detailscale" "1.9"
+"$detailblendmode" "0"
+"$detailblendfactor" "1"
+ 
+ $surfaceprop brick // physics type
+"%keywords" "tf"
+}

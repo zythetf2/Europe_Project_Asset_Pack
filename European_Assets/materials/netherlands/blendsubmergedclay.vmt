@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "netherlands/submerged_clay001"
+	"$basetexture2" "netherlands/submerged_clay002"
+$bumpmap "netherlands/normal_neutraal"
+"$bumpmap2" "Nature/dirtground004_height-ssbump"
+	"%tooltexture" "netherlands/submerged_clay001"
+	"$blendmodulatetexture" "nature/snowwall_blendmask"
+	"%keywords" "tf"
+	"$surfaceprop" "mud"
+	"$surfaceprop2" "mud"
+
+
+}

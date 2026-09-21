@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/terrazzo_floor001" // diffuse map
+ 
+ $bumpmap "netherlands/terrazzo_floor_normal" // normal map
+ 
+ $normalmapalphaenvmapmask 1 // use the alpha channel of normal map as specular map
+"$envmap" "env_cubemap"
+ $envmapsaturation 0.5
+ $envmapcontrast 1
+ $envmaptint "[0.5 0.5 0.5]"
+
+ $surfaceprop concrete // physics type
+"%keywords" "tf"
+}

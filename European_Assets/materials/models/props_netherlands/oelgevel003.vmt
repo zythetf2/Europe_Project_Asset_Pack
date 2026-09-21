@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_netherlands/oelgevel003"
+
+ $surfaceprop wood // physics type
+}

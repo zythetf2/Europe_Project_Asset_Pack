@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_netherlands/chimney_cap_medium001_2"
+
+ $surfaceprop wood // physics type
+}

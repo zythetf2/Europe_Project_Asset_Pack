@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+ $basetexture "italy/rooftile_monkandnun001" // diffuse map
+ 
+ $bumpmap "italy/rooftile_monkandnun_normal" // normal map
+ 
+"$detail" "overlays/detail001"
+"$detailscale" "1.9"
+"$detailblendmode" "0"
+"$detailblendfactor" "1"
+ 
+ $surfaceprop tile // physics type
+"%keywords" "tf"
+}

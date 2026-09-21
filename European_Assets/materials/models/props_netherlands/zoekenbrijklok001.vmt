@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_netherlands/zoekenbrijklok001"
+	$bumpmap "models/props_netherlands/zoekenbrijklok001_normal"
+ $surfaceprop wood // physics type
+}

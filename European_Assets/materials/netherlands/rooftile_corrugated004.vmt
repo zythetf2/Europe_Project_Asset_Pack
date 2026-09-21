@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/rooftile_corrugated004" // diffuse map
+ 
+ $bumpmap "netherlands/rooftile_corrugated_normal_withered" // normal map
+ 
+ $normalmapalphaenvmapmask 1 // use the alpha channel of normal map as specular map
+"$envmap" "env_cubemap"
+ $envmapsaturation 0.5
+ $envmapcontrast 1
+ $envmaptint "[0.45 0.45 0.45]"
+
+ $surfaceprop tile // physics type
+"%keywords" "tf"
+}

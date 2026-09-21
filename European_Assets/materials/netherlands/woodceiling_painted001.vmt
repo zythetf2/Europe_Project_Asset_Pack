@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/woodceiling_painted001" // diffuse map
+ 
+ $bumpmap "netherlands/woodceiling_painted001_normal" // normal map
+ 
+ $surfaceprop wood // physics type
+"%keywords" "tf"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_netherlands/buildingE_window07_4"
+
+ $surfaceprop wood // physics type
+}

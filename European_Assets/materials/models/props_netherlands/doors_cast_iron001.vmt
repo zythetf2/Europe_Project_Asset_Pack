@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+ $basetexture "models/props_netherlands/doors_cast_iron001" // diffuse map
+ 
+ $bumpmap "models/props_netherlands/doors_cast_iron001_normal" // normal map
+ 
+"$AlphaTest" "1"
+"$AlphaTestReference" ".25"
+"$AllowAlphaToCoverage" "1"
+ 
+ $surfaceprop metal // physics type
+"%keywords" "tf"
+}

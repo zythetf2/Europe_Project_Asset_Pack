@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+ $basetexture "netherlands/trims_woodbeam_painted001" // diffuse map
+ 
+ $surfaceprop wood // physics type
+"%keywords" "tf"
+}
