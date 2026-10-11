@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "signs/sign_charcoal_01a"
+	"$basetexture" "austria/signs/sign_charcoal_01a"
 
 	"$decal" "1"
 	"$translucent" 1

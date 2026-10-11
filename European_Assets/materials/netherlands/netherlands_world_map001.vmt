@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "netherlands/netherlands_world_map001"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	"%keywords" "tf"
+}
